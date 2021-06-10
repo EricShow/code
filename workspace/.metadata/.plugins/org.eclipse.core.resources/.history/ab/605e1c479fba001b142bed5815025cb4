@@ -1,0 +1,30 @@
+package com.sdl.spring.collectiontype;
+import java.util.*;
+public class Stu {
+	//1 数组类型属性
+	private String[] courses;
+
+	//2 list集合类型属性
+	private List<String> list;
+	
+	//3 map集合类型属性
+	private Map<String,String> maps;
+	
+	//4 Set集合类型属性
+	private Set<String> sets;
+	
+	public void setCourses(String[] courses) {
+		this.courses = courses;
+	}
+
+
+	public void setMaps(Map<String,String> maps) {
+		this.maps = maps;
+	}
+
+
+	public void setList(List<String> list) {
+		this.list = list;
+	}
+	
+}

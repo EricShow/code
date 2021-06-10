@@ -1,0 +1,12 @@
+package com.sdl.spring.collectiontype;
+
+public class Stu {
+	//1 数组类型属性
+	private String[] courses;
+
+
+	public void setCourses(String[] courses) {
+		this.courses = courses;
+	}
+	
+}

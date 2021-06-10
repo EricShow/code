@@ -1,0 +1,16 @@
+package com.sdl.spring.testDemo;
+import org.junit.*;
+import org.springframework.context.ApplicationContext;
+import org.springframework.context.support.ClassPathXmlApplicationContext;
+
+import com.sdl.spring.collectiontype.Stu;
+public class TestSpring5Demo {
+	@Test
+	public void testCollection() {
+		ApplicationContext context = 
+				new ClassPathXmlApplicationContext("bean1.xml");
+		Stu stu = getBean("stu",Stu.class);
+		stu.test();
+		
+	}
+}

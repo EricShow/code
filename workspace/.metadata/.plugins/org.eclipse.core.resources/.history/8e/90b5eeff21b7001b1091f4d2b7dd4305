@@ -1,0 +1,13 @@
+package com.sdl.demo_class.bean;
+
+public class emp {
+	private String ename;
+	private String gendString;
+	public void setEname(String ename) {
+		this.ename = ename;
+	}
+	public void setGendString(String gendString) {
+		this.gendString = gendString;
+	}
+	
+}

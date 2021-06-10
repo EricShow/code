@@ -1,0 +1,8 @@
+package com.sdl.spring.aurowire;
+
+public class Dept {
+	@Override
+    public String toString() {
+        return "Dept{}";
+    }
+}

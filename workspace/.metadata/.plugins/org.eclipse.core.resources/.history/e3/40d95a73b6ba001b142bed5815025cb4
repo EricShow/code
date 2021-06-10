@@ -1,0 +1,23 @@
+package com.sdl.spring.factorybean;
+
+import org.springframework.beans.factory.FactoryBean;
+
+public class MyBean implements FactoryBean{
+
+	@Override
+	public Object getObject() throws Exception {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public Class getObjectType() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public boolean isSingleton() {
+		return false;
+	}
+}

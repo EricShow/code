@@ -1,0 +1,22 @@
+1621234824355	Delete element
+1621235431785	Delete element
+1621245339570	Delete element
+1621245652447	Move file
+1621255875333	Copy compilation unit
+1621255894703	Copy compilation unit
+1621255911759	Rename type 'TestSpring6'
+1621256508743	Copy compilation units
+1621256523222	Copy compilation units
+1621257139557	Rename resource 'bean1.xml'
+1621257148534	Rename resource 'bean1_ori.xml'
+1621261912529	Delete element
+1621261917269	Delete element
+1621262071314	Delete element
+1621262836619	Encapsulate field 'userDao'
+1621263400562	Rename type 'TestBean'
+1621264141271	Encapsulate field 'dname'
+1621264181483	Encapsulate field 'ename'
+1621264201852	Encapsulate field 'gendString'
+1621264287438	Rename type 'dept'
+1621264301359	Rename type 'emp'
+1621264336751	Encapsulate field 'dept'

@@ -1,0 +1,16 @@
+package com.sdl.spring.test;
+
+import org.springframework.context.ApplicationContext;
+import org.springframework.context.support.ClassPathXmlApplicationContext;
+ 
+ 
+public class SpringTest {
+	public static void main(String[] args0) {
+		test1();
+	}
+	public static void test1() {
+		ApplicationContext context = new ClassPathXmlApplicationContext("spring-config.xml");
+		Person person = context.getBean("person", Person.class);
+		System.out.println(person.toString());
+	}
+}

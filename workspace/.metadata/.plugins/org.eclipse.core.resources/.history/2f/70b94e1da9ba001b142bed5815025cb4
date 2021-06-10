@@ -1,0 +1,8 @@
+package com.sdl.spring.collectiontype;
+
+public class Book {
+	private List<String>;
+	public void setList(List<String> list) {
+		this.list = list;
+	}
+}

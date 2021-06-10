@@ -1,0 +1,8 @@
+package com.sdl.spring.testDemo;
+import org.junit.*;
+public class TestSpring5Demo {
+	@Test
+	public void testCollection() {
+		
+	}
+}

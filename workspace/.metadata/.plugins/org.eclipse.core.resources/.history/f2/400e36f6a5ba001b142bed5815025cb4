@@ -1,0 +1,49 @@
+package com.sdl.spring.collectiontype;
+import java.util.*;
+public class Course {
+	//1 数组类型属性
+	private String[] courses;
+
+	//2 list集合类型属性
+	private List<String> list;
+	
+	//3 map集合类型属性
+	private Map<String,String> maps;
+	
+	//4 Set集合类型属性
+	private Set<String> sets;
+	
+	//5 学生所选多门课程
+	private List<Course> courseList;
+	
+	public void setCoursesList(List<Course> courseList) {
+		this.courseList = courseList;
+	}
+
+
+	public void setMaps(Map<String,String> maps) {
+		this.maps = maps;
+	}
+
+
+	public void setList(List<String> list) {
+		this.list = list;
+	}
+
+
+	public void setSets(Set<String> sets) {
+		this.sets = sets;
+	}
+	
+	public void test() {
+		System.out.println(Arrays.toString(courses));
+		System.out.println(this.list);
+		System.out.println(this.maps);
+		System.out.println(this.sets);
+	}
+
+
+	public void setCourseList(List<Course> courseList) {
+		this.courseList = courseList;
+	}
+}

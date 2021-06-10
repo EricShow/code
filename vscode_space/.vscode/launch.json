@@ -1,0 +1,28 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - leetcode8",
+            "request": "launch",
+            "mainClass": "leetcode8",
+            "projectName": "vscode_space_82b58a3a"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch) - Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-test<vscode_space_82b58a3a>",
+            "request": "launch",
+            "mainClass": "test",
+            "projectName": "vscode_space_82b58a3a"
+        }
+    ]
+}

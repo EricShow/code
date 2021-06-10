@@ -1,0 +1,15 @@
+package com.sdl.spring.collectiontype;
+import java.util.*;
+public class Course {
+    private String cname; //¿Î³ÌÃû³Æ
+    public void setCname(String cname) {
+        this.cname = cname;
+    }
+
+    @Override
+    public String toString() {
+        return "Course{" +
+                "cname='" + cname + '\'' +
+                '}';
+    }
+}

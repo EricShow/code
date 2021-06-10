@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">&#x0A;<refactoring comment="Rename resource &apos;尚硅谷_Java基础实战_Bank项目_源代码/尚硅谷_Java基础实战_Bank项目_07&apos; to &apos;bank7&apos;" description="Rename resource &apos;尚硅谷_Java基础实战_Bank项目_07&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="尚硅谷_Java基础实战_Bank项目_07" name="bank7" stamp="1621219508903" updateReferences="true"/>&#x0A;<refactoring comment="Rename resource &apos;尚硅谷_Java基础实战_Bank项目_源代码/bank7&apos; to &apos;尚硅谷_Java基础实战_Bank项目_07&apos;" description="Rename resource &apos;bank7&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="bank7" name="尚硅谷_Java基础实战_Bank项目_07" stamp="1621219562851" updateReferences="true"/>
+</session>

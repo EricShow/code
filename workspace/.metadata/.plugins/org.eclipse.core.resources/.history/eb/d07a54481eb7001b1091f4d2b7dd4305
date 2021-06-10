@@ -1,0 +1,7 @@
+package com.sdl.demo_test.service;
+
+public class UserService {
+	public void add() {
+		System.out.println("Service add .............");
+	}
+}

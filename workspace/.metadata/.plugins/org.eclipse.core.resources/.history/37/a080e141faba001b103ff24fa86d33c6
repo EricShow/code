@@ -1,0 +1,28 @@
+package com.sdl.spring.factorybean;
+
+import org.springframework.beans.factory.FactoryBean;
+
+import com.sdl.spring.collectiontype.Course;
+
+public class MyBean implements FactoryBean<Course>{
+
+	//∂®“Â∑µªÿbean
+	@Override
+	public Course getObject() throws Exception {
+		// TODO Auto-generated method stub
+		Course course = new Course();
+		course.setCname("abc");
+		return course;
+	}
+
+	@Override
+	public Class getObjectType() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public boolean isSingleton() {
+		return false;
+	}
+}

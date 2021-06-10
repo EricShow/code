@@ -1,0 +1,16 @@
+package com.sdl.demo_test.service;
+
+import com.sdl.demo_test.dao.UserDao;
+import com.sdl.demo_test.dao.UserDaoImpl;
+
+public class UserService {
+	public void add() {
+		System.out.println("Service add .............");
+		
+		/* 原始方式
+		 * //创建UserDao对象 
+		 * UserDao userDao = new UserDaoImpl(); 
+		 * userDao.update();
+		 */
+	}
+}

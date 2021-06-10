@@ -1,0 +1,40 @@
+package com.sdl.spring.testDemo;
+import org.junit.*;
+import org.springframework.context.ApplicationContext;
+import org.springframework.context.support.ClassPathXmlApplicationContext;
+
+import com.sdl.spring.collectiontype.Book;
+import com.sdl.spring.collectiontype.Course;
+import com.sdl.spring.collectiontype.Stu;
+import com.sdl.spring.factorybean.MyBean;
+public class TestSpring5Demo {
+	@Test
+	public void testCollection1() {
+		ApplicationContext context = 
+				new ClassPathXmlApplicationContext("bean1.xml");
+		Stu stu = context.getBean("stu",Stu.class);
+		stu.test();
+		
+	}
+	@Test
+	public void testCollection2() {
+		ApplicationContext context = 
+				new ClassPathXmlApplicationContext("bean2.xml");
+		Book book1 = context.getBean("book",Book.class);
+		Book book2 = context.getBean("book",Book.class);
+		book1.testBook();
+		book2.testBook();
+		System.out.println(book1);
+		System.out.println(book2);
+		
+	}
+	
+	@Test
+	public void test3() {
+		ApplicationContext context = 
+				new ClassPathXmlApplicationContext("bean3.xml");
+		Course course = context.getBean("myBean",Course.class);
+		System.out.println(course);
+		
+	}
+}

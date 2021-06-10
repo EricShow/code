@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component jdk="JavaSE-1.8" jdk_type="JavaSDK">
+	<exclude-output/>
+	<contentEntry url="file://$MODULE_DIR$"/>
+	<lib name="spring-aop-5.3.7.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/lib/spring-aop-5.3.7.jar!/"/>
+	</lib>
+	<lib name="spring-aspects-5.3.7.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/lib/spring-aspects-5.3.7.jar!/"/>
+	</lib>
+	<lib name="spring-beans-5.3.7.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/lib/spring-beans-5.3.7.jar!/"/>
+	</lib>
+	<lib name="spring-context-5.3.7.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/lib/spring-context-5.3.7.jar!/"/>
+	</lib>
+	<lib name="spring-core-5.3.7.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/lib/spring-core-5.3.7.jar!/"/>
+	</lib>
+	<lib name="spring-expression-5.3.7.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/lib/spring-expression-5.3.7.jar!/"/>
+	</lib>
+	<lib name="spring-aop-5.3.7-javadoc.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/lib/spring-aop-5.3.7-javadoc.jar!/"/>
+	</lib>
+	<lib name="spring-aop-5.3.7-sources.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/lib/spring-aop-5.3.7-sources.jar!/"/>
+	</lib>
+	<lib name="spring-aspects-5.3.7-javadoc.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/lib/spring-aspects-5.3.7-javadoc.jar!/"/>
+	</lib>
+	<lib name="spring-aspects-5.3.7-sources.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/lib/spring-aspects-5.3.7-sources.jar!/"/>
+	</lib>
+	<lib name="spring-beans-5.3.7-javadoc.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/lib/spring-beans-5.3.7-javadoc.jar!/"/>
+	</lib>
+	<lib name="spring-beans-5.3.7-sources.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/lib/spring-beans-5.3.7-sources.jar!/"/>
+	</lib>
+	<lib name="spring-context-5.3.7-javadoc.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/lib/spring-context-5.3.7-javadoc.jar!/"/>
+	</lib>
+	<lib name="spring-context-5.3.7-sources.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/lib/spring-context-5.3.7-sources.jar!/"/>
+	</lib>
+	<lib name="spring-context-indexer-5.3.7.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/lib/spring-context-indexer-5.3.7.jar!/"/>
+	</lib>
+	<lib name="spring-context-indexer-5.3.7-javadoc.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/lib/spring-context-indexer-5.3.7-javadoc.jar!/"/>
+	</lib>
+	<lib name="spring-context-indexer-5.3.7-sources.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/lib/spring-context-indexer-5.3.7-sources.jar!/"/>
+	</lib>
+	<lib name="spring-context-support-5.3.7.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/lib/spring-context-support-5.3.7.jar!/"/>
+	</lib>
+	<lib name="spring-context-support-5.3.7-javadoc.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/lib/spring-context-support-5.3.7-javadoc.jar!/"/>
+	</lib>
+	<lib name="spring-context-support-5.3.7-sources.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/lib/spring-context-support-5.3.7-sources.jar!/"/>
+	</lib>
+	<lib name="spring-core-5.3.7-javadoc.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/lib/spring-core-5.3.7-javadoc.jar!/"/>
+	</lib>
+	<lib name="spring-core-5.3.7-sources.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/lib/spring-core-5.3.7-sources.jar!/"/>
+	</lib>
+	<lib name="spring-expression-5.3.7-javadoc.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/lib/spring-expression-5.3.7-javadoc.jar!/"/>
+	</lib>
+	<lib name="spring-expression-5.3.7-sources.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/lib/spring-expression-5.3.7-sources.jar!/"/>
+	</lib>
+	<lib name="spring-instrument-5.3.7.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/lib/spring-instrument-5.3.7.jar!/"/>
+	</lib>
+	<lib name="spring-instrument-5.3.7-javadoc.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/lib/spring-instrument-5.3.7-javadoc.jar!/"/>
+	</lib>
+	<lib name="spring-instrument-5.3.7-sources.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/lib/spring-instrument-5.3.7-sources.jar!/"/>
+	</lib>
+	<lib name="spring-jcl-5.3.7.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/lib/spring-jcl-5.3.7.jar!/"/>
+	</lib>
+	<lib name="spring-jcl-5.3.7-javadoc.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/lib/spring-jcl-5.3.7-javadoc.jar!/"/>
+	</lib>
+	<lib name="spring-jcl-5.3.7-sources.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/lib/spring-jcl-5.3.7-sources.jar!/"/>
+	</lib>
+	<lib name="spring-jdbc-5.3.7.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/lib/spring-jdbc-5.3.7.jar!/"/>
+	</lib>
+	<lib name="spring-jdbc-5.3.7-javadoc.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/lib/spring-jdbc-5.3.7-javadoc.jar!/"/>
+	</lib>
+	<lib name="spring-jdbc-5.3.7-sources.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/lib/spring-jdbc-5.3.7-sources.jar!/"/>
+	</lib>
+	<lib name="spring-jms-5.3.7.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/lib/spring-jms-5.3.7.jar!/"/>
+	</lib>
+	<lib name="spring-jms-5.3.7-javadoc.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/lib/spring-jms-5.3.7-javadoc.jar!/"/>
+	</lib>
+	<lib name="spring-jms-5.3.7-sources.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/lib/spring-jms-5.3.7-sources.jar!/"/>
+	</lib>
+	<lib name="spring-messaging-5.3.7.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/lib/spring-messaging-5.3.7.jar!/"/>
+	</lib>
+	<lib name="spring-messaging-5.3.7-javadoc.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/lib/spring-messaging-5.3.7-javadoc.jar!/"/>
+	</lib>
+	<lib name="spring-messaging-5.3.7-sources.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/lib/spring-messaging-5.3.7-sources.jar!/"/>
+	</lib>
+	<lib name="spring-orm-5.3.7.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/lib/spring-orm-5.3.7.jar!/"/>
+	</lib>
+	<lib name="spring-orm-5.3.7-javadoc.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/lib/spring-orm-5.3.7-javadoc.jar!/"/>
+	</lib>
+	<lib name="spring-orm-5.3.7-sources.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/lib/spring-orm-5.3.7-sources.jar!/"/>
+	</lib>
+	<lib name="spring-oxm-5.3.7.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/lib/spring-oxm-5.3.7.jar!/"/>
+	</lib>
+	<lib name="spring-oxm-5.3.7-javadoc.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/lib/spring-oxm-5.3.7-javadoc.jar!/"/>
+	</lib>
+	<lib name="spring-oxm-5.3.7-sources.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/lib/spring-oxm-5.3.7-sources.jar!/"/>
+	</lib>
+	<lib name="spring-r2dbc-5.3.7.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/lib/spring-r2dbc-5.3.7.jar!/"/>
+	</lib>
+	<lib name="spring-r2dbc-5.3.7-javadoc.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/lib/spring-r2dbc-5.3.7-javadoc.jar!/"/>
+	</lib>
+	<lib name="spring-r2dbc-5.3.7-sources.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/lib/spring-r2dbc-5.3.7-sources.jar!/"/>
+	</lib>
+	<lib name="spring-test-5.3.7.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/lib/spring-test-5.3.7.jar!/"/>
+	</lib>
+	<lib name="spring-test-5.3.7-javadoc.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/lib/spring-test-5.3.7-javadoc.jar!/"/>
+	</lib>
+	<lib name="spring-test-5.3.7-sources.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/lib/spring-test-5.3.7-sources.jar!/"/>
+	</lib>
+	<lib name="spring-tx-5.3.7.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/lib/spring-tx-5.3.7.jar!/"/>
+	</lib>
+	<lib name="spring-tx-5.3.7-javadoc.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/lib/spring-tx-5.3.7-javadoc.jar!/"/>
+	</lib>
+	<lib name="spring-tx-5.3.7-sources.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/lib/spring-tx-5.3.7-sources.jar!/"/>
+	</lib>
+	<lib name="spring-web-5.3.7.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/lib/spring-web-5.3.7.jar!/"/>
+	</lib>
+	<lib name="spring-web-5.3.7-javadoc.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/lib/spring-web-5.3.7-javadoc.jar!/"/>
+	</lib>
+	<lib name="spring-web-5.3.7-sources.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/lib/spring-web-5.3.7-sources.jar!/"/>
+	</lib>
+	<lib name="spring-webflux-5.3.7.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/lib/spring-webflux-5.3.7.jar!/"/>
+	</lib>
+	<lib name="spring-webflux-5.3.7-javadoc.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/lib/spring-webflux-5.3.7-javadoc.jar!/"/>
+	</lib>
+	<lib name="spring-webflux-5.3.7-sources.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/lib/spring-webflux-5.3.7-sources.jar!/"/>
+	</lib>
+	<lib name="spring-webmvc-5.3.7.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/lib/spring-webmvc-5.3.7.jar!/"/>
+	</lib>
+	<lib name="spring-webmvc-5.3.7-javadoc.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/lib/spring-webmvc-5.3.7-javadoc.jar!/"/>
+	</lib>
+	<lib name="spring-webmvc-5.3.7-sources.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/lib/spring-webmvc-5.3.7-sources.jar!/"/>
+	</lib>
+	<lib name="spring-websocket-5.3.7.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/lib/spring-websocket-5.3.7.jar!/"/>
+	</lib>
+	<lib name="spring-websocket-5.3.7-javadoc.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/lib/spring-websocket-5.3.7-javadoc.jar!/"/>
+	</lib>
+	<lib name="spring-websocket-5.3.7-sources.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/lib/spring-websocket-5.3.7-sources.jar!/"/>
+	</lib>
+	<lib name="junit-4.12.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/lib/junit-4.12.jar!/"/>
+	</lib>
+	<lib name="druid-1.1.9.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/lib/druid-1.1.9.jar!/"/>
+	</lib>
+	<lib name="spring-aop-5.2.6.RELEASE.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/lib/spring-aop-5.2.6.RELEASE.jar!/"/>
+	</lib>
+</component>

@@ -1,0 +1,14 @@
+package com.sdl.spring.bean;
+
+public class Orders {
+	private String oname;
+	
+	public Orders() {
+		System.out.println("1 通过构造器创建bean实例(无参构造)");
+	}
+	public void setOname(String oname) {
+		this.oname = oname;
+		System.out.println("2 为bean的属性设置值和对其他bean引用(调用set方法)");
+	}
+
+}

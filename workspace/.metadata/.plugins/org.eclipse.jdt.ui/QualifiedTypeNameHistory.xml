@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="org.springframework.context.ApplicationContext"/>
+    <fullyQualifiedTypeName name="org.springframework.context.support.ClassPathXmlApplicationContext"/>
+    <fullyQualifiedTypeName name="com.sdl.spring.collectiontype.Stu"/>
+    <fullyQualifiedTypeName name="com.sdl.spring.collectiontype.Book"/>
+    <fullyQualifiedTypeName name="com.sdl.spring.factorybean.MyBean"/>
+    <fullyQualifiedTypeName name="org.springframework.beans.factory.FactoryBean"/>
+    <fullyQualifiedTypeName name="com.sdl.spring.collectiontype.Course"/>
+    <fullyQualifiedTypeName name="com.sdl.spring.bean.Orders"/>
+    <fullyQualifiedTypeName name="org.springframework.beans.factory.config.BeanPostProcessor"/>
+    <fullyQualifiedTypeName name="org.springframework.beans.BeansException"/>
+    <fullyQualifiedTypeName name="com.sdl.spring.aurowire.Emp"/>
+</qualifiedTypeNameHistroy>
