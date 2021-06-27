@@ -1,2 +1,3 @@
 /develop/*
 /python_space/venv/*
+/coronary/train/custom/utils/*.pt

@@ -45,6 +45,7 @@ class leetcode347:
             ret.append(i[0])
         return ret
         #return [i[0] for i in Counter(nums).most_common(k)]
+
 if __name__ == '__main__':
     k = int(input().strip())
     nums = input().strip().split(" ")

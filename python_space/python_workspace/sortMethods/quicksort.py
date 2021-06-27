@@ -29,7 +29,6 @@ class quicksort:
                 if mid + 1 < high:
                     para_stack.append(mid + 1)
                     para_stack.append(high)
-
         return nums
 
     def patition(self, nums, low, high):
