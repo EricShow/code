@@ -1,3 +1,4 @@
 /develop/*
 /python_space/venv/*
 /coronary/train/custom/utils/*.pt
+/Github_code/YOLO系列/yolo3-pytorch-master/model_data/
